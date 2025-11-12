@@ -1,0 +1,6 @@
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\bin\Debug\AppDatos.dll
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\bin\Debug\AppDatos.pdb
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\obj\Debug\AppDatos.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\obj\Debug\AppDatos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\obj\Debug\AppDatos.dll
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppDatos\obj\Debug\AppDatos.pdb

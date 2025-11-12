@@ -1,0 +1,9 @@
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\bin\Debug\AppNegocio.dll
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\bin\Debug\AppNegocio.pdb
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\obj\Debug\AppNegocio.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\obj\Debug\AppNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\obj\Debug\AppNegocio.dll
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\obj\Debug\AppNegocio.pdb
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\bin\Debug\AppDatos.dll
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\bin\Debug\AppDatos.pdb
+C:\Users\jesus\Documents\7 TETRA\Tareas VSCOMUNITY\TareaWEB\AppNegocio\obj\Debug\AppNegocio.csproj.Up2Date
